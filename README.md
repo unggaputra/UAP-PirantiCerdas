@@ -5,3 +5,6 @@ Alat penghangat kandang ayam, merupakan alat yang dibuat menggunakan ESP32 sebag
 
 ## Alur Kerja Sistem
 ![Alt text](https://github.com/unggaputra/UAP-PirantiCerdas/blob/main/uploads/Flowchart%20sistem%20IoT.jpg) 
+
+## Tampilan Aplikasi Blynk
+![Alt text](https://github.com/unggaputra/UAP-PirantiCerdas/blob/main/uploads/Tampilan%20Blynk.jpg)
